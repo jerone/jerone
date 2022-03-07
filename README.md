@@ -6,3 +6,11 @@
 ## Apps
 
 * `apps/fork/fork.reg` - Windows registery change to add <kbd>Open in Fork</kbd> in context-menu. [Source](https://gist.github.com/belaw/3bf516e14f04b9263cd846e6b85dfec6).
+
+## Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jerone&count_private=true&theme=github_dark&show_icons=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerone&count_private=true&theme=github_dark&layout=compact&hide=Logos" />
+</div>
