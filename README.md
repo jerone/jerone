@@ -2,6 +2,7 @@
 
 ![Views](https://komarev.com/ghpvc/?username=jerone)
 [![GitHub followers](https://img.shields.io/github/followers/jerone?label=Github%20followers)](https://github.com/jerone?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/jerone?affiliations=OWNER&label=Github%20stars)](https://github.com/jerone?tab=repositories&q=&type=source&language=&sort=stargazers)
 [![Open in Gitpod](https://img.shields.io/badge/Open%20in%20Gitpod-%E2%96%B6-red?logo=gitpod)](https://gitpod.io/#https://github.com/jerone/jerone)
 [![StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/108448)]([https://stackoverflow.com/users/14122375/hamiltonpharmd](https://stackoverflow.com/users/108448/jerone))
 
