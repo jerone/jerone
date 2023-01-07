@@ -32,6 +32,8 @@
   [![StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/108448)]([https://stackoverflow.com/users/14122375/hamiltonpharmd](https://stackoverflow.com/users/108448/jerone))
 
 </div>
-  
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+
 <!-- https://yhype.me/github/accounts/jerone -->
 ![](https://hit.yhype.me/github/profile?user_id=55841)
