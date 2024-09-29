@@ -19,7 +19,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerone&count_private=true&theme=github_dark&layout=compact&hide=Logos" />
 
   [![wakatime](https://wakatime.com/badge/user/9e319238-a924-4184-b940-9c78f98c85e2.svg)](https://wakatime.com/@jerone)
-  
+
+  [![WhatPulse](https://img.shields.io/whatpulse/keys/user/jerone?label=WhatPulse%20keys)](https://whatpulse.org/jerone) [![WhatPulse](https://img.shields.io/whatpulse/keys/user/jerone?rank&label=WhatPulse%20keys)](https://whatpulse.org/jerone) <br/>
+  [![WhatPulse](https://img.shields.io/whatpulse/clicks/user/jerone?label=WhatPulse%20clicks)](https://whatpulse.org/jerone) [![WhatPulse](https://img.shields.io/whatpulse/clicks/user/jerone?rank&label=WhatPulse%20clicks)](https://whatpulse.org/jerone)
+
 </div>
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
