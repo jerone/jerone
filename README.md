@@ -1,4 +1,4 @@
-# jerone's personal monorepo 
+# Welcome to my GitHub profile 
 
 ![Views](https://komarev.com/ghpvc/?username=jerone)
 
