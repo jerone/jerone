@@ -21,7 +21,8 @@
   [![wakatime](https://wakatime.com/badge/user/9e319238-a924-4184-b940-9c78f98c85e2.svg)](https://wakatime.com/@jerone)
 
   [![WhatPulse](https://img.shields.io/whatpulse/keys/user/jerone?label=WhatPulse%20keys)](https://whatpulse.org/jerone) [![WhatPulse](https://img.shields.io/whatpulse/keys/user/jerone?rank&label=WhatPulse%20keys)](https://whatpulse.org/jerone) <br/>
-  [![WhatPulse](https://img.shields.io/whatpulse/clicks/user/jerone?label=WhatPulse%20clicks)](https://whatpulse.org/jerone) [![WhatPulse](https://img.shields.io/whatpulse/clicks/user/jerone?rank&label=WhatPulse%20clicks)](https://whatpulse.org/jerone)
+  [![WhatPulse](https://img.shields.io/whatpulse/clicks/user/jerone?label=WhatPulse%20clicks)](https://whatpulse.org/jerone) [![WhatPulse](https://img.shields.io/whatpulse/clicks/user/jerone?rank&label=WhatPulse%20clicks)](https://whatpulse.org/jerone) <br/>
+  [![WhatPulse](https://img.shields.io/whatpulse/uptime/user/jerone?label=WhatPulse%20uptime)](https://whatpulse.org/jerone) [![WhatPulse](https://img.shields.io/whatpulse/uptime/user/jerone?rank&label=WhatPulse%20uptime)](https://whatpulse.org/jerone) <br/>
 
 </div>
 
