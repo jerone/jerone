@@ -25,9 +25,5 @@
 
 </div>
 
----
-
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
-
 <!-- https://yhype.me/github/accounts/jerone -->
 ![](https://hit.yhype.me/github/profile?user_id=55841)
